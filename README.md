@@ -20,10 +20,7 @@ This project is a simple Clinic Booking System built using MySQL. It models pati
 
 Below is a visual representation of the Clinic Booking System database schema.
 
-![ERD Screenshot ('/c/Users/Administrator/Desktop/PLP 2025/mySQL/Week 8')
-
-
-Or view it online: [View ERD on dbdiagram.io](https://dbdiagram.io/d/Clinic-Booking-System-682704c11227bdcb4e9cb54d)
+ view it online: [View ERD on dbdiagram.io](https://dbdiagram.io/d/Clinic-Booking-System-682704c11227bdcb4e9cb54d)
 
 📁 Files Included
 clinic_booking.sql – Contains all CREATE TABLE statements and sample data.
